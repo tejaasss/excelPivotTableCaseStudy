@@ -1,2 +1,2 @@
 # excelPivotTableCaseStudy
-Contains case studies in Microsoft excel with pivot multiple tables and charts.
+Contains case studies in Microsoft Excel files with multiple pivot tables and charts.
